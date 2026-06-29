@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR2m0043/v1
+canonical_location: https://kanripo.org/bkk/KR2m0043/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 廟制圖考
+  date: '2015-08-24 22:52:32.314870'
+  source:
+    repository: kanripo
+    path: KR2m0043
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2m0043_000.yaml, hash: 'sha256:63a19b159a81a31723c158edb56d5fdff1bdd6486aead39a7b5d42351df86d00'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2m0043_000.markers.yaml, hash: 'sha256:d01b635ad1acaf5062c3ac59202443da408582da46e2d57b1f229da447a07002'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2m0043_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 328
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2m0043_WYG_000-3a
+    span:
+    - body
+    - 328
+    - 22982
+  label: 廟製圖考
+  type: section
+  level: 1
+hash: sha256:563678fb168c1dc85e16e01b32b58ea94530a9026f9858e495ab9b7a82ed7c63
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
