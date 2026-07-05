@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2m0043_000.yaml, hash: 'sha256:63a19b159a81a31723c158edb56d5fdff1bdd6486aead39a7b5d42351df86d00'}
+  - {seq: 0, filename: KR2m0043_000.yaml, hash: 'sha256:6ca905b758d48969d5b024b4c8bffe2ae11fb13f847054f1dd6db7efe6803034'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2m0043_000.markers.yaml, hash: 'sha256:d01b635ad1acaf5062c3ac59202443da408582da46e2d57b1f229da447a07002'}
+  - {seq: 0, role: markers, filename: assets/KR2m0043_000.markers.yaml, hash: 'sha256:e05876d95e01261c94de1fbff3d5abd7a3cdb945827ee350bd96f76ccc890e0a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,4 @@ table_of_contents:
   label: 廟製圖考
   type: section
   level: 1
-hash: sha256:563678fb168c1dc85e16e01b32b58ea94530a9026f9858e495ab9b7a82ed7c63
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d114cc00f4c5459b008731f4b9890e66ad1bcba84caf46ce231645e424a974f8
