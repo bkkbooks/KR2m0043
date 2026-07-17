@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2m0043_000-WYG.yaml, hash: 'sha256:3c7f6a175163bd80a35fc37c2bb6360db5d782d982e539a2fcb79f7eeb366784'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2m0043_000-WYG.markers.yaml, hash: 'sha256:31ef259fcabc97839605cf0a07cfd854c9ec89bbaef24475ec6e2f01af1c031e'}
+  - {seq: 0, role: markers, filename: assets/KR2m0043_000-WYG.markers.yaml, hash: 'sha256:87351db668d0a20cd5ace9654789abce9ff23364db3a8cac080c1fece6f18e65'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 廟製圖考
   type: section
   level: 1
-hash: sha256:f3926e366bf3b314d2642e9ed62c46cf5dbf32b137c40f4acfc68e52c3ba2c1d
+hash: sha256:d99915f540a5e9aef51fcee34da3de10341e55b611e722b0b7961c234c85f9de
